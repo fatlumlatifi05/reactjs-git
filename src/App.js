@@ -7,11 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-<<<<<<< HEAD
-          Edit <code>src/App.js</code> Fatlumi test 4.
-=======
-       Lumiii <code>src/App.js</code> lumi.
->>>>>>> a3e580074fd323c90f27b0da5e8acdca2c81b237
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
